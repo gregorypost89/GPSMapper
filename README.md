@@ -413,6 +413,8 @@ We add a GROUP BY for reading our results, and the full query looks like this:
 
 ![alt text](images/sqlCompleteQuery.png) 
 
+##### Note: The code for this query is based on a response from user mjv on Stack Overflow. The full question and response can be found here: https://stackoverflow.com/questions/1751698/sql-query-for-total-points-within-radius-of-a-location/1751760#1751760
+
 ---
 
 <H3> Section 4: Using our code in Spark (in progress) </H3>
